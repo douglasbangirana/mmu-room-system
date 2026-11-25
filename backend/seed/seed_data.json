@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "name": "Head of Department",
+      "email": "hod@mmu.ac.ug",
+      "password": "ChangeMe123!",
+      "role": "HOD"
+    },
+    {
+      "name": "Dr. Demo Lecturer",
+      "email": "lecturer1@mmu.ac.ug",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "Ms. Second Lecturer",
+      "email": "lecturer2@mmu.ac.ug",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "douglas",
+      "email": "douglas@mmu.ac.ug",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "kulzdouglas",
+      "email": "kulzdouglas@gmail.com",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "douglasbangirana19",
+      "email": "douglasbangirana19@gmail.com",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "benard",
+      "email": "benard@mmu.ac.ug",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    },
+    {
+      "name": "bangiranadouglas",
+      "email": "bangiranadouglas@mmu.ac.ug",
+      "password": "Lecturer123!",
+      "role": "LECTURER"
+    }
+  ],
+  "rooms": [
+    {
+      "code": "LH-101",
+      "name": "Lecture Hall 101",
+      "capacity": 120,
+      "projector": 1,
+      "device_key": "4d5cfe51d17cdeac3a39d1755eab20f7c94a7af8862a090b"
+    },
+    {
+      "code": "LH-102",
+      "name": "Lecture Hall 102",
+      "capacity": 60,
+      "projector": 0,
+      "device_key": "dbf76d1b394ee373dd089a42e0a47e61cd869073cb59055b"
+    },
+    {
+      "code": "RB4",
+      "name": "Room RB4",
+      "capacity": 0,
+      "projector": 0,
+      "device_key": "6cf3bc7d23d0265ad8595087e81dfced1a270ab0400eed99"
+    },
+    {
+      "code": "RA3-1",
+      "name": "Room RA3-1",
+      "capacity": 0,
+      "projector": 0,
+      "device_key": "477dcea3dadbb07004a76c98bc9d5968b79cc0f2934aeb38"
+    },
+    {
+      "code": "RB7-1",
+      "name": "Room RB7-1",
+      "capacity": 0,
+      "projector": 0,
+      "device_key": "c31357a97cb32e3e10ee400052f8a68ffd56a5e7276f8f93"
+    }
+  ],
+  "cards": [
+    {
+      "uid": "04A1B2C3",
+      "email": "lecturer1@mmu.ac.ug"
+    }
+  ],
+  "slots": [
+    {
+      "email": "douglas@mmu.ac.ug",
+      "room": "RB4",
+      "date": "2026-11-02",
+      "start": "10:00:00",
+      "end": "13:00:00",
+      "course": "BSAF 2105/ BBA 2104/ BBMT2106/ BSE 4104"
+    },
+    {
+      "email": "kulzdouglas@gmail.com",
+      "room": "RA3-1",
+      "date": "2026-11-03",
+      "start": "08:00:00",
+      "end": "12:00:00",
+      "course": "BSE 4101"
+    },
+    {
+      "email": "douglasbangirana19@gmail.com",
+      "room": "RA3-1",
+      "date": "2026-11-04",
+      "start": "08:00:00",
+      "end": "11:00:00",
+      "course": "BSE 4103"
+    },
+    {
+      "email": "benard@mmu.ac.ug",
+      "room": "RA3-1",
+      "date": "2026-11-05",
+      "start": "08:00:00",
+      "end": "11:00:00",
+      "course": "BSE 4105"
+    },
+    {
+      "email": "bangiranadouglas@mmu.ac.ug",
+      "room": "RB7-1",
+      "date": "2026-11-06",
+      "start": "10:00:00",
+      "end": "13:00:00",
+      "course": "BSE 4102"
+    }
+  ],
+  "daily_demo": {
+    "email": "lecturer1@mmu.ac.ug",
+    "room": "LH-101",
+    "course": "Demo: SE 301",
+    "start": "00:00:00",
+    "end": "23:59:00",
+    "days": 60
+  }
+}
